@@ -1,0 +1,24 @@
+# Variables de entorno (contiene tokens secretos)
+.env
+
+# Base de datos local
+finanzas.db
+
+# Reporte generado
+reporte.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# VBS de inicio automático
+iniciar_bot.vbs
